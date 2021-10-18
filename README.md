@@ -1,6 +1,6 @@
 # Born2beRoot by Javier Rodriguez Montero.
 
-## Quick summary of what Born2BeRoot projet is.
+## Quick summary of what Born2BeRoot project is about.
 Born2BeRoot consist of setting up a virtual machine server under
 specific and strict rules such as:
 ```
